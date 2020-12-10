@@ -84,7 +84,7 @@ Generating Unrestricted Adversarial Images by Optimizing a Color Filter</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Image-Enhancement-Papers/blob/master/img(46).pdf" style="text-decoration:none;">Modeling and Enhancing Low-quality Retinal Fundus Images</a></li> 
                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Image-Enhancement-Papers/blob/master/img(47).pdf" style="text-decoration:none;">Visual Perception Model for Rapid and Adaptive Low-light Image Enhancement</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Image-Enhancement-Papers/blob/master/img(48).pdf" style="text-decoration:none;">Early Exit or Not: Resource-Ecient Blind Quality Enhancement for Compressed Images</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-Enhancement-Papers/blob/master/img(48).pdf" style="text-decoration:none;">Early Exit or Not: Resource-Efficient Blind Quality Enhancement for Compressed Images</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Image-Enhancement-Papers/blob/master/img(49).pdf" style="text-decoration:none;">URIE: Universal Image Enhancement
 for Visual Recognition in the Wild</a></li>
